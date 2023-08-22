@@ -1,3 +1,3 @@
 # CPP-Projects
 
-## Collection of C++ projects.
+Collection of C++ projects.
